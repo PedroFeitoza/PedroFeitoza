@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pedro+Feitoza....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Pedro+Feitoza....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -13,9 +13,6 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/pedro-henrique-114b111aa" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
-  </code>
-  <code>
-    <a href="https://www.linkedin.com/in/pedro-henrique-114b111aa" title="LinkedIn Profile"><img width="22" src=""> LinkedIn</a>
   </code>
 </h5>
 
@@ -37,6 +34,7 @@
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
