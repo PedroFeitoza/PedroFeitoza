@@ -6,11 +6,16 @@
   </a>
 </h1>
 
-<img src="images/thanks.gif" align="center" width="250" height="250">
+<div align="center">
+  <img src="images/thanks.gif" width="300" height="300">
+</div>
 
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/pedro-henrique-114b111aa" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://www.linkedin.com/in/pedro-henrique-114b111aa" title="LinkedIn Profile"><img width="22" src=""> LinkedIn</a>
   </code>
 </h5>
 
@@ -72,6 +77,12 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
+<hr>
+
+<div align="center">
+<img src="images/snake.svg">
+</div>
 <!--
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
