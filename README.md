@@ -25,39 +25,37 @@ I'm a software developer who enjoys building complete products, from the databas
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,ts,js,python,html,css,sass" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,java,ts,js,html,css" alt="Languages" />
 </p>
 
 **Back-end & data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express,graphql,postgres,mysql,sqlite" alt="Back-end and data" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,graphql,mysql" alt="Back-end and data" />
 </p>
 
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,vue,tailwind,bootstrap,materialui,vite" alt="Front-end" />
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,tailwind" alt="Front-end" />
 </p>
 
-**Infrastructure & tools**
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github,maven,visualstudio,vscode" alt="Infrastructure and tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,maven" alt="Tools" />
 </p>
 
-Also worked with: Entity Framework Core, Dapper, AutoMapper, Swagger, Apollo Client, Java Swing, A-Frame / AR.js, systemd and VirtualBox.
+Also worked with: Entity Framework Core, Dapper, AutoMapper, Swagger, Apollo Client, Java Swing.
 
 ## Featured projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**streaming-distribuido**](https://github.com/PedroFeitoza/streaming-distribuido) | Distributed video streaming platform across four VMs, demonstrating replication, load balancing, fault tolerance and horizontal scaling. | Node.js, Express, PostgreSQL, Nginx, Ubuntu Server |
 | [**Leilao_Eletronico**](https://github.com/PedroFeitoza/Leilao_Eletronico) | Full-stack online auction system with a REST API and a web client. | ASP.NET Core, C#, Entity Framework Core, MySQL, Angular |
 | [**Event-Platform**](https://github.com/PedroFeitoza/Event-Platform) | Live event platform with video lessons, consuming a GraphQL CMS (GraphCMS). | React, TypeScript, GraphQL, Apollo, Tailwind CSS, Vite |
 | [**Pokedex**](https://github.com/PedroFeitoza/Pokedex) | REST API that generates CSV reports for Pokémon, trainers and Pokédex entries. | Java, Spring Boot, Maven |
 | [**Loja-Online-Desktop-App**](https://github.com/PedroFeitoza/Loja-Online-Desktop-App) | Desktop online-store application backed by a relational database. | Java, Swing, MySQL, Maven |
-| [**POC-RA-WEB**](https://github.com/PedroFeitoza/POC-RA-WEB) | Proof of concept for marker-based augmented reality running in the browser. | JavaScript, A-Frame, AR.js |
 
 **Algorithms & computer science:** [Dijkstra's shortest path with graph visualization](https://github.com/PedroFeitoza/Algoritmo-de-Dijkstra-com-Grafo) (Java) · [Image filters and convolution masks](https://github.com/PedroFeitoza/ProcessamentoImagem) (Java) · [2D geometric transformations panel](https://github.com/PedroFeitoza/PainelTransformacoesGeometricas-) (Java) · [Design patterns in C#](https://github.com/PedroFeitoza/DesignPatternsl)
 
